@@ -5,4 +5,4 @@ How to use:
 2) Run 'pdf_merge.exe'
 
 What it does:
-'pdf_merge.exe' loops through the files in its directory, and merges all PDF files.
+'pdf_merge.exe' loops through the files in its directory, and merges all PDF files together.
